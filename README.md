@@ -4,6 +4,10 @@
 
 Horiseon is social marketing company that has given us the pleasure of updating their webpages back-end making it accesible and SEO friendly.
 
+## Technology
+
+-HTML
+-CSS
 
 ## Credits
 
